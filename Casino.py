@@ -6,7 +6,6 @@ journal = []
 print('Добро пожаловать в виртуальное казино! Ваш стартовый депозит составляет', deposit, 'единиц.')
 while deposit > 0:
     dice = random.randint(2, 12)
-    print(dice)
     guess = int(input('Программа бросила кубики. Сделайте вашу ставку: '))
     if dice == guess:
         deposit += 1000
