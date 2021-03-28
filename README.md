@@ -12,6 +12,7 @@ Python 18+ Course
 ## Day 3
 - [Homework 1.3.1: Working with the dictionary](list_operations.py/)
 - [Homework 1.3.2: Multiplication table](multiplication_table.py/)
+- [Homework 1.3.3: A program for composing random phrases](random_phrases.py/)
 
 ## Ozon new skills
 https://ozonns.ru/
