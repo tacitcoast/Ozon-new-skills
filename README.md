@@ -9,7 +9,9 @@ Python 18+ Course
 - [Russian Roulette Game](Roulette_Game.py/)
 - [Prize drawing program](Prize_program.py/)
 - [Homework 1.2: Casino program](Casino.py/)
-- [Homework 2: TBA](TBA.py/)
+## Day 3
+- [Homework 1.3.1: Working with the dictionary](list_operations.py/)
+- [Homework 1.3.2: Multiplication table](multiplication_table.py/)
 
 ## Ozon new skills
 https://ozonns.ru/
