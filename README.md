@@ -14,5 +14,11 @@ Python 18+ Course
 - [Homework 1.3.2: Multiplication table](multiplication_table.py/)
 - [Homework 1.3.3: A program for composing random phrases](random_phrases.py/)
 
+## Day 4
+- [Homework 1.4.1: Working with the output of values from the dictionary](dictionary_1.py/)
+- [Homework 1.4.2: Working with sets](working_with_sets.py/)
+- [Homework 1.4.3: The program for calculating the rating](rating_program.py/)
+- [Homework 1.4.4: Recommendation system](recommendation_system.py/)
+
 ## Ozon new skills
 https://ozonns.ru/
