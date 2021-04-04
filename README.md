@@ -1,4 +1,4 @@
-# My training in Ozone new skills
+# My training in Ozon new skills
 
 Python 18+ Course
 
@@ -19,6 +19,12 @@ Python 18+ Course
 - [Homework 1.4.2: Working with sets](working_with_sets.py/)
 - [Homework 1.4.3: The program for calculating the rating](rating_program.py/)
 - [Homework 1.4.4: Recommendation system](recommendation_system.py/)
+
+## Day 5
+- [Homework 1.5.1: Genre comparison function](genre_comparison_function.py/)
+- [Homework 1.5.2: Rating calculation program for series by genre](genre_comparison_function.py/)
+- [Homework 1.5.3: Update rating calculation program for series by genre](genre_comparison_function.py/)
+
 
 ## Ozon new skills
 https://ozonns.ru/
