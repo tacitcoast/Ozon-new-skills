@@ -23,7 +23,7 @@ Python 18+ Course
 ## Day 5
 - [Homework 1.5.1: Genre comparison function](genre_comparison_function.py/)
 - [Homework 1.5.2: Rating calculation program for series by genre](genre_comparison_function.py/)
-- [Homework 1.5.3: Update rating calculation program for series by genre](genre_comparison_function.py/)
+- [Homework 1.5.3: Update rating calculation program for series by genre](update_genre_comparison_function.py/)
 
 
 ## Ozon new skills
