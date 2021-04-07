@@ -22,9 +22,14 @@ Python 18+ Course
 
 ## Day 5
 - [Homework 1.5.1: Genre comparison function](genre_comparison_function.py/)
-- [Homework 1.5.2: Rating calculation program for series by genre](genre_comparison_function.py/)
+- [Homework 1.5.2: Rating calculation program for series by genre](genre_comparison_function_2.py/)
 - [Homework 1.5.3: Update rating calculation program for series by genre](update_genre_comparison_function.py/)
 
+## Day 6
+- [Homework 1.6.1: Working with modules](homework_1_6_1/module.py/)
+- [Homework 1.6.2: Working with text from a file](homework_1_6_2/text_from_a_file.py/)
+- [Homework 1.6.3: Diary program](homework_1_6_3/diary_program.py/)
+- [Homework 1.6.4: Find index](homework_1_6_4/index.py/)
 
 ## Ozon new skills
 https://ozonns.ru/
