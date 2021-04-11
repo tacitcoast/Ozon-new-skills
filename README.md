@@ -31,5 +31,11 @@ Python 18+ Course
 - [Homework 1.6.3: Diary program](homework_1_6_3/diary_program.py/)
 - [Homework 1.6.4: Find index](homework_1_6_4/index.py/)
 
+## Day 7
+- [Homework 1.7.1: Liner search](homework_1_7_1/liner_search.py/)
+- [Homework 1.7.2: Bubble sort](homework_1_7_2/bubble_sort.py/)
+- [Homework 1.7.3: Selection sort](homework_1_7_3/selection_sort.py/)
+
+
 ## Ozon new skills
 https://ozonns.ru/
