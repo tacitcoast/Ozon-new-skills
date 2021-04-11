@@ -7,5 +7,7 @@
 guess = input('Напишите год вашего рождения: ')
 
 with open('lesson06_pi_million_digits.txt') as file:
-    content = file.read()
-    print(content.find(guess))
+    content_rows = file.readlines()
+    # Список соединяем в одну строку
+    content_str = ''.join(content_rows)
+    print(content_str.find(guess))
