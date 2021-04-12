@@ -35,7 +35,7 @@ Python 18+ Course
 - [Homework 1.7.1: Liner search](homework_1_7_1/liner_search.py/)
 - [Homework 1.7.2: Bubble sort](homework_1_7_2/bubble_sort.py/)
 - [Homework 1.7.3: Selection sort](homework_1_7_3/selection_sort.py/)
-
+- [Homework 1.7.4: Comparison of selection sort](homework_1_7_4/comparison_of_selection_sort.py/)
 
 ## Ozon new skills
 https://ozonns.ru/
