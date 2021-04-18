@@ -42,7 +42,16 @@ Python 18+ Course
 - [Homework 1.7.4: Comparison of selection sort](day_7/homework_1_7_4/comparison_of_selection_sort.py/)
 
 ## Day 8
-- [Homework 1.8.1: Parser](day_8/homework_1_8_1/parser.py/)
+- [Homework 1.8.1: Parsing all the links for free games from the Steam](day_8/homework_1_8_1/parse_links.py/)
+- [Homework 1.8.2: Parsing tags from Steam](day_8/homework_1_8_2/parse_tags.py/)
+- [Homework 1.8.3: Parsing games table](day_8/homework_1_8_3/parse_games_table.py/)
+
+## Day 9
+- [Homework 1.9.1: Regex for name of galaxies](day_9/homework_1_9_1/regex_name_galaxies.py)
+- [Homework 1.9.2: Regex for Andromeda galaxies](day_9/homework_1_9_2/regex_andromeda_galaxies.py/)
+- [Homework 1.9.3: Find cats in text with 're'](day_9/homework_1_9_3/find_cats_in_text.py/)
+- [Homework 1.9.4: Parsing links from Wikipedia](day_9/homework_1_9_4/parse_wikipedia.py/)
+
 
 ## Ozon new skills
 https://ozonns.ru/
