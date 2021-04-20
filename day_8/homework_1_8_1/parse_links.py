@@ -15,7 +15,8 @@ links = soup.find_all('a')
 dic_free_game = {}
 
 for element in links:
-    if element.text.find('Free To Play') > 0:
-        dic_free_game[element.text] = element.get('href')
+    text = element.text.replace('\n', ' ')
+    if text.find('Free To Play') > 0:
+        dic_free_game[text.strip()] = element.get('href')
 
 print(dic_free_game)
