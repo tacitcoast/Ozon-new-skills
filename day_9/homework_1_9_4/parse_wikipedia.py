@@ -14,8 +14,9 @@ links = soup.find_all('a')
 
 for element in links:
     url = element.get('href')
+    # Убираем пустые ссылки
     if url == None:
         continue
-    result = re.search('^\/wiki\/|wikipedia', url)
-    if result:
+    result = re.search('^\/wiki\/|wikipedia|#|\/w\/index', url)
+    if not result:
         print(url)
