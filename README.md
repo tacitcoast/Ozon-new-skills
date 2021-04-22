@@ -52,6 +52,12 @@ Python 18+ Course
 - [Homework 1.9.3: Find cats in text with 're'](day_9/homework_1_9_3/find_cats_in_text.py/)
 - [Homework 1.9.4: Parsing links from Wikipedia](day_9/homework_1_9_4/parse_wikipedia.py/)
 
+## Day 10
+- [Homework 1.10.1: Map and list comprehension](day_10/homework_1_10_1/map_list_comprehension.py/)
+- [Homework 1.10.2: Filter and list comprehension](day_10/homework_1_10_2/filter_list_comprehension.py/)
+- [Homework 1.10.3: Dict comprehension](day_10/homework_1_10_3/dict_comprehension.py/)
+- [Homework 1.10.4: Dict comprehension for shows and ratings](day_10/homework_1_10_4/dict_comp_shows_ratings.py/)
+
 
 ## Ozon new skills
 https://ozonns.ru/
