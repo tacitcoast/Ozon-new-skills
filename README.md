@@ -58,6 +58,11 @@ Python 18+ Course
 - [Homework 1.10.3: Dict comprehension](day_10/homework_1_10_3/dict_comprehension.py/)
 - [Homework 1.10.4: Dict comprehension for shows and ratings](day_10/homework_1_10_4/dict_comp_shows_ratings.py/)
 
+## Day 11
+- [Homework 1.11.1: Working with the Person class](day_11/homework_1_11_1/person_class.py/)
+- [Homework 1.11.2: Working with the Student class](day_11/homework_1_11_2/student_class.py/)
+- [Homework 1.11.3: Working with the Professor class](day_11/homework_1_11_3/professor_class.py/)
+
 
 ## Ozon new skills
 https://ozonns.ru/
