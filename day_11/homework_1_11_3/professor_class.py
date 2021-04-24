@@ -53,6 +53,8 @@ student_two = Student('Мария', 'Маркова', 'МГУ 2309', [])
 students = [student_one, student_two]
 professor = Professor('Виталий', 'Анатольевич', 'Кинематические уравнения движения материальной точки')
 
+print(professor)
+
 professor.test_students(students)
 
 print(student_one)
