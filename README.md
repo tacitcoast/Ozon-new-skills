@@ -63,6 +63,9 @@ Python 18+ Course
 - [Homework 1.11.2: Working with the Student class](day_11/homework_1_11_2/student_class.py/)
 - [Homework 1.11.3: Working with the Professor class](day_11/homework_1_11_3/professor_class.py/)
 
+## Day 12
+- [Homework 1.12.1: Working with graphical user interface](day_12/homework_1_12_1/text_editer.py/)
+- [Homework 1.12.2: ](day_12/homework_1_12_1/)
 
 ## Ozon new skills
 https://ozonns.ru/
