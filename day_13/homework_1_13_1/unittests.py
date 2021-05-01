@@ -10,13 +10,12 @@
 
 
 def calculate_credit(s, r, n):
-    if n == 0:
-        return None
-    if r == 0:
-        return None
+    try:
+        r = r / 12
+        result = int(s * (r * (1 + r) ** n) / ((1 + r) ** n - 1))
+    except ZeroDivisionError:
+        result = None
 
-    r = r / 12
-    result = int(s * (r * (1 + r) ** n) / ((1 + r) ** n - 1))
     return result
 
 
