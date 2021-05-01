@@ -67,5 +67,8 @@ Python 18+ Course
 - [Homework 1.12.1: Working with graphical user interface](day_12/homework_1_12_1/text_editer.py/)
 - [Homework 1.12.2: Working with graphical user interface (json)](day_12/homework_1_12_2/text_editter_json.py)
 
+## Day 13
+- [Homework 1.13.1: Unit Tests](day_13/homework_1_13_1/unittests.py/)
+
 ## Ozon new skills
 https://ozonns.ru/
