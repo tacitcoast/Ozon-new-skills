@@ -20,13 +20,13 @@ with open('settings.json') as settings_file:
 window = tk.Tk()
 window.title('Текстовый редактор')
 
-frame_top = tk.Frame(window)
-frame_top.pack()
+frame_top = tk.Frame(window, height=300, width=300)
+frame_top.pack(fill=tk.BOTH, expand=True)
 
 # Фрейм с основным полем ввода текста
-text_field = tk.Text(frame_top, height=20, width=100)
+text_field = tk.Text(frame_top)
 text_field.insert(1.0, text)
-text_field.pack()
+text_field.pack(fill=tk.BOTH, expand=True)
 
 # Фрейм с кнопками
 frame_bottom = tk.Frame(window)
