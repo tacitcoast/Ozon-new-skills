@@ -70,5 +70,10 @@ Python 18+ Course
 ## Day 13
 - [Homework 1.13.1: Unit Tests](day_13/homework_1_13_1/unittests.py/)
 
+## Day 14
+- [Homework 1.14.1: A telegram bot that returns a message in random order](day_14/homework_1_14_1/telegram_bot_random.py/)
+- [Homework 1.14.2: A telegram bot that chooses a random game](day_14/homework_1_14_2/telegram_bot_game.py/)
+- [Homework 1.14.3: A telegram bot for post index](day_14/homework_1_14_3/telegram_bot_post_index.py/)
+
 ## Ozon new skills
 https://ozonns.ru/
