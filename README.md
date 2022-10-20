@@ -77,3 +77,10 @@ Python 18+ Course
 
 ## Ozon new skills
 https://ozonns.ru/
+
+##
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tacitcoast" alt="tacitcoast" />
+    <a href="https://github.com/tacitcoast/"><img src="https://img.shields.io/github/followers/tacitcoast?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
+  <a href="https://github.com/tacitcoast/"><img src="https://img.shields.io/github/last-commit/tacitcoast/tacitcoast?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+</p>
